@@ -1,0 +1,2 @@
+Paste index.php file code to functions.php file of current theme.
+DRAWBACK - Parmalinks won't work on frontend side if we add custom texonomy.
